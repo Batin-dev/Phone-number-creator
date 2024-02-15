@@ -1,0 +1,7 @@
+C:\Users\Batın Eymen\source\repos\Phone number creator\Phone number creator\bin\Debug\Phone number creator.exe.config
+C:\Users\Batın Eymen\source\repos\Phone number creator\Phone number creator\bin\Debug\Phone number creator.exe
+C:\Users\Batın Eymen\source\repos\Phone number creator\Phone number creator\bin\Debug\Phone number creator.pdb
+C:\Users\Batın Eymen\source\repos\Phone number creator\Phone number creator\obj\Debug\Phone number creator.csproj.AssemblyReference.cache
+C:\Users\Batın Eymen\source\repos\Phone number creator\Phone number creator\obj\Debug\Phone number creator.csproj.CoreCompileInputs.cache
+C:\Users\Batın Eymen\source\repos\Phone number creator\Phone number creator\obj\Debug\Phone number creator.exe
+C:\Users\Batın Eymen\source\repos\Phone number creator\Phone number creator\obj\Debug\Phone number creator.pdb
